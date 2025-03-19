@@ -61,4 +61,4 @@ func main() {
 
 	wg.Wait()
 	fmt.Println("Worker has shut down. Exiting..")
-}
+
